@@ -1,4 +1,5 @@
 x = 5
 y = "John"
-print(x)
-print(y)
+z = x * 2
+print("x multiplied by 2 is", z)
+
